@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/soonchain/4AI-Agent-Space/blob/main/img/Agent%20Space.png" alt="4AI Agent Space" width="900"/>
+ <img src="https://github.com/4aibsc/4AI-Agent-Space/blob/main/img/Agent%20Space.png" alt="4AI Agent Space" width="900"/>
   
 <br>
 
@@ -16,7 +16,7 @@ Agent Space is an open-source framework that automatically selects the appropria
 
 ## 4AI Agent Space Framwork
 
-![Alt text](https://github.com/soonchain/4AI-Agent-Space/blob/main/img/Agent_Space.png)
+![Alt text](https://github.com/4aibsc/4AI-Agent-Space/blob/main/img/Agent_Space.png)
 
 ## Component
 ### 🔥 Pioneer  
@@ -30,7 +30,7 @@ Cluster: The "Agent Cluster" contains multiple agents (labeled A, B, C, D, E, et
 
 ## How To Start
 ### 📝 Agent Registration
-The content of the [tag](https://github.com/soonchain/4AI-Agent-Space/edit/main/README.md) field is manually entered. Before registration, you should carefully consider the functionality of the agent. If the tag entered does not support the corresponding function or performs poorly, it will affect the agent's rating.  
+The content of the tag field is manually entered. Before registration, you should carefully consider the functionality of the agent. If the tag entered does not support the corresponding function or performs poorly, it will affect the agent's rating.  
 ```
 # agent_1 
 {
