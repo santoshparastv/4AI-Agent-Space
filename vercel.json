@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd hrms && npm install && npm run build",
+  "outputDirectory": "hrms/dist",
+  "installCommand": "cd hrms && npm install",
+  "framework": "vite",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
